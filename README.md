@@ -15,3 +15,7 @@ Travis CI 文档中文翻译
 翻译水平有限，有些地方翻译的不好，请谅解，如果您能指出来，我会非常感激并会在第一时间做出修改。
 
 本译文主要在Github发布，[博客](http://www.anotherhome.net/)同步更新。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/travis_ci_chinese_documentation/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
